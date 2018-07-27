@@ -34,7 +34,6 @@ variables.env
 ####################
 build
 *.node
-components
 coverage
 *.orig
 .idea
